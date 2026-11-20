@@ -14,7 +14,7 @@ Workspace for the Gigi Lou business. Everything for the brand lives in this fold
 
 ## To fill in
 
-- [ ] What Gigi Lou sells / offers
+- [x] What Gigi Lou sells: **home decor & lifestyle**
 - [ ] Location (city) and whether it ships worldwide
 - [ ] Link-in-bio destination (website, shop, booking page)
 - [ ] Contact: DMs, email, or WhatsApp

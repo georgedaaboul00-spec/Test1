@@ -1,7 +1,14 @@
 # GIGI LOU — Brand Aesthetic
 
 ## Mood
-Rich, luxe, quiet luxury. Calm, confident, never loud.
+Luxury home decor & lifestyle. Rich, luxe, quiet luxury. Calm, confident, never loud.
+
+## Content ideas
+- Styled corners: shelves, coffee tables, consoles
+- Before / after room refreshes
+- Close-up texture shots: linen, marble, travertine, brass
+- "How to style" reels: 3 pieces, 1 surface
+- Candle-lit evening scenes, morning light scenes
 
 ## Palette
 | Color | Hex |

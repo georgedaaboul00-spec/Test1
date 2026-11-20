@@ -1,5 +1,6 @@
 # GIGI LOU — Instagram Bio
 
+**Niche:** Home decor & lifestyle
 Instagram bios are capped at **150 characters**. Each option below fits.
 Use line breaks exactly as shown.
 
@@ -7,46 +8,53 @@ Use line breaks exactly as shown.
 
 ```
 GIGI LOU
-Quiet luxury, made personal.
-Curated pieces for the effortlessly elegant ✦
-By appointment & online ↓
+Home, elevated.
+Curated decor & lifestyle for beautiful living ✦
+Shop the edit ↓
 ```
 
 ## Option 2 — Minimal & editorial
 
 ```
 G I G I  L O U
-Refined. Timeless. Yours.
-✦ Luxury, curated
+Timeless interiors · Quiet luxury
+Decor that tells your story ✦
 ↓ Shop the collection
 ```
 
-## Option 3 — Soft glamour
+## Option 3 — Soft & warm
 
 ```
 GIGI LOU ✦
-For the woman who whispers luxury.
-Elevated essentials · Signature style
-DM to reserve ↓
+Where luxury feels like home.
+Decor · Styling · Lifestyle
+New pieces weekly ↓
 ```
 
 ## Option 4 — Old money
 
 ```
 GIGI LOU
-Est. 2026
-Understated elegance. Exceptional taste.
+The art of living beautifully.
+Curated objects for refined homes ✦
 Private orders via DM ✉︎
 ```
 
 ## Option 5 — One-liner
 
 ```
-GIGI LOU — the art of effortless luxury ✦
+GIGI LOU — luxe decor for a life well lived ✦
 ```
 
 ## Profile extras
 
-- **Name field (searchable):** `Gigi Lou | Luxury Boutique` — change "Luxury Boutique" to what you sell
-- **Highlights covers:** cream or champagne circles with thin gold serif initials — *New In · Details · Clients · Order*
+- **Name field (searchable):** `Gigi Lou | Luxury Home Decor`
+- **Category:** Home Decor
+- **Highlights:** cream or champagne circles with thin gold serif text —
+  *New In · Living · Dining · Bedroom · Styled Homes · Reviews · Order*
 - **Symbols that keep it luxe:** ✦ · ↓ ✉︎ — avoid bright emoji
+
+## Hashtags to rotate
+
+#gigilouhome #luxuryhomedecor #quietluxury #homestyling #interiordesign
+#neutralhome #elevatedliving #homeinspo #luxuryinteriors #curatedhome
