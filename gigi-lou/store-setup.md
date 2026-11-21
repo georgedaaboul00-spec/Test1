@@ -43,3 +43,11 @@ A product can have several tags, e.g. `new, living, gift`.
 5. **Logo + homepage images** — upload logo and campaign images, then design the homepage.
 6. **Add products** with photos, prices and tags.
 7. **Remove store password** when ready: Online Store → Preferences.
+
+## Products
+| Product | Colours | Cost | Price (3.5×) | Margin | Status |
+|---------|---------|------|--------------|--------|--------|
+| Arco Sculptural Tissue Box | Ivory, Noir | $6.34 | $22.19 | $15.85 (71%) | Draft |
+
+Supplier: Jinjiang Minglingtu Trading Co., Ltd. (Alibaba), $4.39–6.34, min. order 2. Cost excludes shipping/customs.
+Photos: `assets/products/arch-tissue-box/`
