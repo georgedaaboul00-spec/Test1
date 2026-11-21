@@ -166,3 +166,4 @@ Admin says every variant is available (stock 50, continue selling, location fulf
 - "Arrives between X & Y": live dates = 2–4 business days (Sundays skipped, Beirut time, orders after 3pm start next day)
 - 3 oxblood tiles: Curated pieces · Gift wrapped · Pay on delivery
 - Deliberately NOT added: fake "X people viewing" / "selling fast" counters (misleading to customers).
+- Added: "⭐ Customer favourite" badge for products tagged `favourite` (David, Reine, Lapin); "🔥 Only N left" when real tracked stock is 1–5; "⏳ Order within Xh Ym for delivery by <day>" countdown to 3pm Beirut cut-off (Mon–Sat, hidden after cut-off and Sundays).
