@@ -118,3 +118,8 @@ New In · Living Room · Decor & Accents · Bedroom & Bath · Dining · Gifts ·
 9. "The art of gifting" carousel
 - Update: hero slideshow reverted to the single full-screen "Ordinary was never the vision" hero (bookshelf photo, slow zoom + text rise). Oxblood marquee under the hero removed. Other homepage variety changes kept.
 - Update: all homepage scrolling text bands removed (oxblood + sand). Only the header announcement bar and collections row still move.
+
+### Studio photos (same sand background) — batch 1
+Main photo replaced for 13 products: Licorne (Pink), Ourson, Reine, Glacé, Ruban, Café Suspendu (Mocha), Nuage, Perle (3 shots), Mosaïque (White), Lapin (Gold + Silver), Silence (Gold), Halo, Pomme d'Or (Gold). Colour photos linked to their variants. Old supplier photos + cards kept further down each gallery.
+Collection images now: Decor=Silence gold, Dining=Café Suspendu, Gifts=Lapin gold, Bedroom=Nuage. Homepage: Reine feature + Place it well banner use studio photos.
+Still need studio photos: Arco, Arcade, Bruno, Étreinte, Oiseau, Ananas, Panthère, Rêverie, Madame, Minou, David, Penseur, Lecteur (+ other colours of Licorne Blue, Café Cream, Mosaïque Gold/Terracotta, Silence Noir/White, Pomme Silver).
