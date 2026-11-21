@@ -208,3 +208,4 @@ Still missing cost: Majesté Lucky Cat, Ascension Wall Climber ($50 / 50).
 ### Sold-out investigation (Nov 21)
 Fixed via API: (1) homegigilou.com + myshopify web presences attached to market GIGILOU Lebanon; (2) created MarketCatalog "GIGILOU Lebanon catalog" + publication (all products); (3) added market delivery option "Delivery across Lebanon" $3 flat.
 Storefront debug still shows country=LB market=lb but product.available=false, inventory_quantity blank, while admin says availableForSale=true / sellable 5. Remaining suspects (admin only): Settings → Markets → GIGILOU Lebanon → Products/Inventory locations; Settings → Locations → Shop location (no street address); Settings → Shipping and delivery → General profile includes Shop location + Lebanon zone; Markets status / store plan.
+- RESOLVED: after market fixes propagated, storefront shows ADD TO CART / BUY IT NOW, 'Only 5 left' on Reine, no SOLD OUT badges on collection.
