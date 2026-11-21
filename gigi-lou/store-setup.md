@@ -117,3 +117,4 @@ New In · Living Room · Decor & Accents · Bedroom & Bath · Dining · Gifts ·
 8. Madame editorial "Hats off to Madame" (replaced the Arco Ivory/Noir slider)
 9. "The art of gifting" carousel
 - Update: hero slideshow reverted to the single full-screen "Ordinary was never the vision" hero (bookshelf photo, slow zoom + text rise). Oxblood marquee under the hero removed. Other homepage variety changes kept.
+- Update: all homepage scrolling text bands removed (oxblood + sand). Only the header announcement bar and collections row still move.
