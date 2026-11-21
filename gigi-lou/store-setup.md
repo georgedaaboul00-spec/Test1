@@ -128,3 +128,11 @@ Still need studio photos: Arco, Arcade, Bruno, Étreinte, Oiseau, Ananas, Panth�
 Main photo replaced + linked to variants: David (Noir, White), Bruno (Gold, Silver), Étreinte (Sand), Arco (Ivory, Noir + extra Ivory), Arcade, Ananas (Noir).
 New products ($50, live, tags new/decor/living/gift): **Majesté Lucky Cat** (gold, crown + ingot), **Ascension Wall Climber** (gold wall figure).
 Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, Lecteur.
+
+### Frosted glass + 3D (theme assets `gigi-lou-glass.css` + `gigi-lou-glass.js`)
+- Soft sand/stone ambient light behind the page
+- Frosted (blurred, see-through) header and collections row
+- Product cards float as rounded glass panels with soft shadows; on desktop they lift and tilt in 3D following the mouse
+- Glossy oxblood pill buttons with a light sheen sweeping across on hover; ivory glass "Shop now" button
+- Glass pill badges, rounded images (16px), inputs, drawers and menus
+- All motion off for reduced-motion visitors
