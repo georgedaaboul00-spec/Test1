@@ -16,23 +16,15 @@ Store: fzjwa8-sn.myshopify.com · Theme live: **Atelier** · Domain: **homegigil
 
 A product can have several tags, e.g. `new, living, gift`.
 
-### Pages
-- **Our Story** — live
-- **Shipping & Delivery** — draft, fill in the [FILL IN] parts, then publish
-- **Returns & Exchanges** — draft, fill in, then publish
-- **FAQ** — draft, fill in, then publish
-- Contact — already existed
+### Pages (all live)
+- Our Story, Contact
+- Shipping & Delivery, Returns & Exchanges, FAQ — default terms: Lebanon only, $3 flat, 2–4 business days, COD only, 7-day returns (unused, original packaging), damaged items within 48h. **Review and edit if your rules differ.**
 
-### Domain
-- **homegigilou.com** connected, primary, SSL on
+### Homepage
+Hero (bookshelf + "Ordinary was never the vision") → collections spotlight → featured Arco → New In → "Place it well" banner → Ivory/Noir comparison slider.
 
-### Delivery
-- Lebanon only: **Delivery across Lebanon — $3** (old $4 / free over $45 rate removed)
-
-### Theme (Atelier)
-- Brand colours applied: ivory background, oxblood text & buttons, wine accent, sand sections
-- Fonts: Montserrat Bold headings, Montserrat body
-- Logo in header + footer, favicon (browser tab icon), social sharing image for shared links
+### Footer
+Shop menu, Customer care menu, newsletter "Join the Gigi Lou list", logo. Placeholder social links removed.
 
 ### Menus
 - **Main:** Home · New In · Shop ▾ (Living Room, Dining & Entertaining, Bedroom & Bath, Decor & Accents, Candles & Scents, Shop All) · Gifts · Our Story · Contact
@@ -41,9 +33,9 @@ A product can have several tags, e.g. `new, living, gift`.
 ## ⬜ To do (in Shopify admin)
 1. ✅ Currency is USD. Time zone: Beirut (GMT+2).
 2. **Cash on delivery only** — Settings → Payments: add manual method "Cash on Delivery (COD)", deactivate all other providers.
-3. **Policies** — Settings → Policies (refund, privacy, terms, shipping).
+3. **Policies** — Settings → Policies: Refund + Shipping (copy text from the Returns / Shipping pages), and generate Privacy + Terms templates. (No API access.)
 4. **Logo in admin-only places** — Settings → Brand (logo, square logo, cover), Checkout → Customize (logo), Notifications → Customize email templates (logo). Files are already in Content → Files.
-5. **Homepage redesign** with campaign images.
+5. ✅ Homepage redesigned.
 6. **Add products** with photos, prices and tags.
 7. **Remove store password** when ready: Online Store → Preferences.
 
