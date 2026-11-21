@@ -100,3 +100,7 @@ Homepage: New In grid shows 16 products; new "The art of gifting" carousel (Gift
 Oxblood bar, stone text, gold ✦, scrolls continuously (30s loop, pauses on hover, static for reduced motion):
 BLACK FRIDAY DEALS ARE HERE ✦ DELIVERY ALL OVER LEBANON ✦ CASH ON DELIVERY
 Edit messages in the theme editor → Header → Announcement marquee.
+
+### Header
+Solid ivory header (no longer transparent over the hero). Collections row under the logo (desktop centred; mobile swipeable bar):
+New In · Living Room · Decor & Accents · Bedroom & Bath · Dining · Gifts · Shop All. Our Story / Contact moved to footer only.
