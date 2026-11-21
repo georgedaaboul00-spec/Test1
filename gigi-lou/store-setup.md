@@ -95,3 +95,8 @@ Note: drafts from batch 2 were switched to ACTIVE by something outside this sess
 ### Launch pricing
 All 26 Gigi Lou products set to **$50** (every variant), ACTIVE, published to Online Store. Arco changed from $22.19 to $50.
 Homepage: New In grid shows 16 products; new "The art of gifting" carousel (Gifts collection, 12 products) after the Ivory/Noir slider.
+
+### Announcement bar (custom section `gl-announcement-bar`, top of every page)
+Oxblood bar, stone text, gold ✦, scrolls continuously (30s loop, pauses on hover, static for reduced motion):
+BLACK FRIDAY DEALS ARE HERE ✦ DELIVERY ALL OVER LEBANON ✦ CASH ON DELIVERY
+Edit messages in the theme editor → Header → Announcement marquee.
