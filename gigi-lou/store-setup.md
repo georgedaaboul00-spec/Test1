@@ -201,3 +201,6 @@ Admin says every variant is available (stock 50, continue selling, location fulf
 | NEW Envol Gold Wall Swallows (DRAFT, no photo) | A 7, B 7, C 6 | 3.80 | 14 |
 \* quantity cut off in screenshot — assumed. Not in orders (unchanged $50/50): Perle, Ruban, Majesté, Ascension.
 Sizes stored in product metafield custom.dimensions and shown on product page ("Size: …").
+| Perle Wine Holder | 20 | 7.25 | 26 |
+| Ruban Wine Holder (rope white) | 20 | 2.25 | 8 |
+Still missing cost: Majesté Lucky Cat, Ascension Wall Climber ($50 / 50).
