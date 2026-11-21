@@ -104,3 +104,4 @@ Edit messages in the theme editor → Header → Announcement marquee.
 ### Header
 Solid ivory header (no longer transparent over the hero). Collections row under the logo (desktop centred; mobile swipeable bar):
 New In · Living Room · Decor & Accents · Bedroom & Bath · Dining · Gifts · Shop All. Our Story / Contact moved to footer only.
+- Update: collections now scroll slowly in a custom "Collections marquee" section (60s loop, pauses on hover, reads the Main menu). Desktop inline menu hidden (marquee is the nav); mobile ☰ drawer still has the collections. Speed: Customize → Header → Collections marquee → Loop duration (higher = slower).
