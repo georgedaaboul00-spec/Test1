@@ -167,3 +167,4 @@ Admin says every variant is available (stock 50, continue selling, location fulf
 - 3 oxblood tiles: Curated pieces · Gift wrapped · Pay on delivery
 - Deliberately NOT added: fake "X people viewing" / "selling fast" counters (misleading to customers).
 - Added: "⭐ Customer favourite" badge for products tagged `favourite` (David, Reine, Lapin); "🔥 Only N left" when real tracked stock is 1–5; "⏳ Order within Xh Ym for delivery by <day>" countdown to 3pm Beirut cut-off (Mon–Sat, hidden after cut-off and Sundays).
+- Update: removed 'Beautifully wrapped, ready to gift' — rotating badge removed and the closing line deleted from all 28 product descriptions.
