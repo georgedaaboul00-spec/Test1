@@ -149,3 +149,4 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 
 ### Animated spotlight (custom section `gl-spotlight`, replaced the featured Reine section)
 Oxblood stage "In the spotlight / Statement pieces": product floats in a gold-edged arch, gold halo glows and spins behind, gold text ring spins around (GIGI LOU ✦ STATEMENT PIECES ✦ CROWNED IN GOLD ✦ HOME, ELEVATED ✦). Auto-rotates every 5s with crossfade + zoom: Reine → David → Silence → Lapin → Majesté (name, tagline, price, Shop now, dots). Pauses on hover. Editable in Customize (products, taglines, speed, colours).
+- Update: collections spotlight names smaller (1.4–2.25rem) and auto-cycle every 3.5s (highlight + matching image), pauses on hover/tap. Hero badge kept below the sticky header.
