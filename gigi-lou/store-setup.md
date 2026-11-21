@@ -1,6 +1,6 @@
 # GIGI LOU — Shopify Store Setup
 
-Store: fzjwa8-sn.myshopify.com · Theme live: **Atelier** · Domain: **homegigilou.com**
+Store: fzjwa8-sn.myshopify.com · Theme live: **Gigi Lou** · Domain: **homegigilou.com**
 
 ## ✅ Done
 ### Collections (auto-fill by product tag)
