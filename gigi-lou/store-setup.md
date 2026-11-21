@@ -123,3 +123,8 @@ New In · Living Room · Decor & Accents · Bedroom & Bath · Dining · Gifts ·
 Main photo replaced for 13 products: Licorne (Pink), Ourson, Reine, Glacé, Ruban, Café Suspendu (Mocha), Nuage, Perle (3 shots), Mosaïque (White), Lapin (Gold + Silver), Silence (Gold), Halo, Pomme d'Or (Gold). Colour photos linked to their variants. Old supplier photos + cards kept further down each gallery.
 Collection images now: Decor=Silence gold, Dining=Café Suspendu, Gifts=Lapin gold, Bedroom=Nuage. Homepage: Reine feature + Place it well banner use studio photos.
 Still need studio photos: Arco, Arcade, Bruno, Étreinte, Oiseau, Ananas, Panthère, Rêverie, Madame, Minou, David, Penseur, Lecteur (+ other colours of Licorne Blue, Café Cream, Mosaïque Gold/Terracotta, Silence Noir/White, Pomme Silver).
+
+### Studio photos — batch 2
+Main photo replaced + linked to variants: David (Noir, White), Bruno (Gold, Silver), Étreinte (Sand), Arco (Ivory, Noir + extra Ivory), Arcade, Ananas (Noir).
+New products ($50, live, tags new/decor/living/gift): **Majesté Lucky Cat** (gold, crown + ingot), **Ascension Wall Climber** (gold wall figure).
+Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, Lecteur.
