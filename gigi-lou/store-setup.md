@@ -137,3 +137,4 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 - Glass pill badges, rounded images (16px), inputs, drawers and menus
 - All motion off for reduced-motion visitors
 - Update: header is now a floating rounded glass pill (logo bar) with collections as glass chips below (slow scroll, oxblood on hover/active), Baytikk-style.
+- Update: mobile menu drawer refined: 1rem bold spaced uppercase links with hairline dividers, frosted glass panel with rounded right corners, rounded product images.
