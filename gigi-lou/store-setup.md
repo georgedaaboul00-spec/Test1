@@ -155,3 +155,4 @@ Oxblood stage "In the spotlight / Statement pieces": product floats in a gold-ed
 ### ⚠️ SOLD OUT on live site (open issue)
 Admin says every variant is available (stock 50, continue selling, location fulfils online). Market "GIGILOU Lebanon" (regions Lebanon + United States) has **no web presence** and 0 catalogs → likely cause of storefront showing SOLD OUT / Unavailable. Fix: Settings → Markets → GIGILOU Lebanon → make sure Online Store / domain homegigilou.com is assigned (or set it as primary market). Not changed yet — waiting for owner OK.
 - Update: New In now uses exactly the same settings as The art of gifting (sand background, carousel, 60cqw cards, arrows).
+- Update: spotlight switching rebuilt (logic moved to gigi-lou-scroll.js): autoplay 5s, ‹ › arrows on the arch, tappable dots, swipe left/right on phones.
