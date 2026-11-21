@@ -3,6 +3,8 @@
 Workspace for the Gigi Lou business. Everything for the brand lives in this folder.
 
 - **Instagram:** https://www.instagram.com/reel/Df99cJlIns2/
+- **Shopify:** fzjwa8-sn.myshopify.com (Basic plan, Lebanon, EET)
+- **Contact email:** contact@gigilouhome.com
 - **Aesthetic:** rich, luxe, quiet luxury
 
 ## Files
