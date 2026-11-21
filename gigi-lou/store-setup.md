@@ -39,7 +39,7 @@ A product can have several tags, e.g. `new, living, gift`.
 - **Footer:** Our Story · Contact · Search (add the 3 draft pages once published)
 
 ## ⬜ To do (in Shopify admin)
-1. **Store currency → USD** — Settings → General → Store defaults → Currency (must be done in admin).
+1. ✅ Currency is USD. Time zone: Beirut (GMT+2).
 2. **Cash on delivery only** — Settings → Payments: add manual method "Cash on Delivery (COD)", deactivate all other providers.
 3. **Policies** — Settings → Policies (refund, privacy, terms, shipping).
 4. **Logo + homepage images** — upload logo and campaign images, then design the homepage.
@@ -49,7 +49,7 @@ A product can have several tags, e.g. `new, living, gift`.
 ## Products
 | Product | Colours | Cost | Price (3.5×) | Margin | Status |
 |---------|---------|------|--------------|--------|--------|
-| Arco Sculptural Tissue Box | Ivory, Noir | $6.34 | $22.19 | $15.85 (71%) | Draft |
+| Arco Sculptural Tissue Box | Ivory, Noir | $6.34 | $22.19 | $15.85 (71%) | Live |
 
 Supplier: Jinjiang Minglingtu Trading Co., Ltd. (Alibaba), $4.39–6.34, min. order 2. Cost excludes shipping/customs.
 Photos: `assets/products/arch-tissue-box/`
