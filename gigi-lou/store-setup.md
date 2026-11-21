@@ -146,3 +146,6 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 - Update: badge text now spins non-stop (~1 turn/20s) and speeds up/reverses with scroll. Hero made bigger (min 88% screen height) and more cinematic: continuous slow 3D sway (follows mouse on desktop), slow 26s camera drift/zoom, film vignette, warm light sweep every ~9s, stronger 3D push on scroll.
 - Update: badge now spins at a constant speed on its own (no scroll influence) and no longer moves with scroll.
 - Update: hero 'camera orbit' — continuous video-like 3D motion: swings ±10° left/right, tilts ±5°, slowly pushes in/out and drifts (desktop: follows mouse). Light sweep every 7s. Badge spin unchanged.
+
+### Animated spotlight (custom section `gl-spotlight`, replaced the featured Reine section)
+Oxblood stage "In the spotlight / Statement pieces": product floats in a gold-edged arch, gold halo glows and spins behind, gold text ring spins around (GIGI LOU ✦ STATEMENT PIECES ✦ CROWNED IN GOLD ✦ HOME, ELEVATED ✦). Auto-rotates every 5s with crossfade + zoom: Reine → David → Silence → Lapin → Majesté (name, tagline, price, Shop now, dots). Pauses on hover. Editable in Customize (products, taglines, speed, colours).
