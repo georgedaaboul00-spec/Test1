@@ -145,3 +145,4 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 - Header untouched. Off for reduced-motion visitors (badge stays, static).
 - Update: badge text now spins non-stop (~1 turn/20s) and speeds up/reverses with scroll. Hero made bigger (min 88% screen height) and more cinematic: continuous slow 3D sway (follows mouse on desktop), slow 26s camera drift/zoom, film vignette, warm light sweep every ~9s, stronger 3D push on scroll.
 - Update: badge now spins at a constant speed on its own (no scroll influence) and no longer moves with scroll.
+- Update: hero 'camera orbit' — continuous video-like 3D motion: swings ±10° left/right, tilts ±5°, slowly pushes in/out and drifts (desktop: follows mouse). Light sweep every 7s. Badge spin unchanged.
