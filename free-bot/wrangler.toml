@@ -1,0 +1,15 @@
+name = "baytikk-price-bot"
+main = "src/index.ts"
+compatibility_date = "2026-11-01"
+
+[vars]
+SHOPIFY_SHOP_DOMAIN = "baytikklb.myshopify.com"
+STOREFRONT_URL = "https://baytikk.com"
+DELIVERY_FEE = "3"
+FREE_DELIVERY_FROM = "40"
+# Map ads whose text doesn't mention the product: '{"120212345678901234": "egg-cracker"}'
+AD_PRODUCT_MAP = "{}"
+
+# Secrets (set with `npx wrangler secret put NAME`, never commit them):
+#   WHATSAPP_ACCESS_TOKEN, WHATSAPP_PHONE_NUMBER_ID, WHATSAPP_VERIFY_TOKEN,
+#   WHATSAPP_APP_SECRET, SHOPIFY_ADMIN_TOKEN

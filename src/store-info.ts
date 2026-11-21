@@ -14,7 +14,7 @@ export const STORE_INFO = `
 - Gift wrapping is available as an add-on product ("Wrap it as a gift", $2).
 
 # Shipping
-- FREE shipping on every order, anywhere in Lebanon.
+- Delivery all over Lebanon: $3 per order, FREE for orders of $40 or more.
 - Delivery takes 1 to 3 business days.
 - Delivery times are estimates; carrier delays can happen.
 

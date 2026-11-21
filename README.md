@@ -1,5 +1,8 @@
 # Baytikk WhatsApp Agent
 
+> 💸 **Want it for $0?** See [`free-bot/`](free-bot/): a no-AI bot that instantly replies with the price and
+> delivery fee when customers message from your ads. It runs free on Cloudflare.
+
 A WhatsApp customer-support bot for **[baytikk.com](https://baytikk.com)**. It answers customers on WhatsApp
 in English, Arabic, Arabizi or French. It uses Claude for the conversation and reads live data from
 the Baytikk Shopify store.
