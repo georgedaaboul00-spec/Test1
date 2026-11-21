@@ -211,3 +211,5 @@ Storefront debug still shows country=LB market=lb but product.available=false, i
 - RESOLVED: after market fixes propagated, storefront shows ADD TO CART / BUY IT NOW, 'Only 5 left' on Reine, no SOLD OUT badges on collection.
 - Bulle Balloon Dog: LIVE with silver + gold photos (linked to Small/Large/Long Silver and Small/Large Gold), photos in description. Still need photos: Rainbow, Light Blue, Dark Blue.
 - Bulle: Rainbow, Light Blue, Dark Blue photos made by recolouring the supplier gold photo (hue shift), linked to variants and added to description. All 5 colours now have photos.
+
+## Pricing rule changed: price = cost × 4, rounded up to whole $ (all 28 costed products, every variant). Majesté + Ascension still $50 (no cost).
