@@ -157,3 +157,4 @@ Admin says every variant is available (stock 50, continue selling, location fulf
 - Update: New In now uses exactly the same settings as The art of gifting (sand background, carousel, 60cqw cards, arrows).
 - Update: spotlight switching rebuilt (logic moved to gigi-lou-scroll.js): autoplay 5s, ‹ › arrows on the arch, tappable dots, swipe left/right on phones.
 - Update: big collection list replaced by custom 'Shop by room' section (gl-rooms): arch photo tiles (New In, Living Room, Decor, Bedroom & Bath, Dining, Gifts) with name + piece count, swipeable row on phone, all 6 in a row on desktop, rise-in + gentle float, lift on hover.
+- Update: Madame section replaced by custom 'Animated feature' (gl-feature): full-bleed photo with slow Ken Burns zoom + scroll parallax, frosted glass card on top (eyebrow, title, text, price, Shop Madame) that rises in with staggered text when scrolled into view.
