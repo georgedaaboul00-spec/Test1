@@ -160,3 +160,9 @@ Admin says every variant is available (stock 50, continue selling, location fulf
 - Update: Madame section replaced by custom 'Animated feature' (gl-feature): full-bleed photo with slow Ken Burns zoom + scroll parallax, frosted glass card on top (eyebrow, title, text, price, Shop Madame) that rises in with staggered text when scrolled into view.
 - Update: 'Place it well' banner replaced by Animated feature for Perle: oxblood glass card (right on desktop), 3 studio pearl photos crossfading every 5s with Ken Burns zoom + parallax. gl-feature now has card position (left/right) and style (ivory/oxblood) settings.
 - Update: footer logo animated — swings in 3D (rotateY ±22°, gentle float, 6s) inside a gold text ring (GIGI LOU ✦ HOME, ELEVATED ✦ ORDINARY WAS NEVER THE VISION ✦) spinning every 24s. Off for reduced motion.
+
+### Product page perks (snippet `gl-product-perks`, rendered under Add to cart on product pages only)
+- Rotating badge (shuffled order each visit, changes every 3.2s): Handpicked by Gigi Lou · Ready to gift · Cash on delivery · $3 delivery all over Lebanon · Easy 7-day returns
+- "Arrives between X & Y": live dates = 2–4 business days (Sundays skipped, Beirut time, orders after 3pm start next day)
+- 3 oxblood tiles: Curated pieces · Gift wrapped · Pay on delivery
+- Deliberately NOT added: fake "X people viewing" / "selling fast" counters (misleading to customers).
