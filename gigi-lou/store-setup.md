@@ -26,6 +26,9 @@ A product can have several tags, e.g. `new, living, gift`.
 ### Domain
 - **homegigilou.com** connected, primary, SSL on
 
+### Delivery
+- Lebanon only: **Delivery across Lebanon — $3** (old $4 / free over $45 rate removed)
+
 ### Theme (Atelier)
 - Brand colours applied: ivory background, oxblood text & buttons, wine accent, sand sections
 - Fonts: Montserrat Bold headings, Montserrat body
@@ -36,9 +39,8 @@ A product can have several tags, e.g. `new, living, gift`.
 - **Footer:** Our Story · Contact · Search (add the 3 draft pages once published)
 
 ## ⬜ To do (in Shopify admin)
-1. **Store currency** — currently LBP. Change to USD before adding products: Settings → Store details.
-2. **Payments** — Settings → Payments (cash on delivery / card).
-3. **Shipping rates** — Settings → Shipping and delivery.
+1. **Store currency → USD** — Settings → General → Store defaults → Currency (must be done in admin).
+2. **Cash on delivery only** — Settings → Payments: add manual method "Cash on Delivery (COD)", deactivate all other providers.
 4. **Policies** — Settings → Policies (refund, privacy, terms, shipping).
 5. **Logo + homepage images** — upload logo and campaign images, then design the homepage.
 6. **Add products** with photos, prices and tags.
