@@ -50,7 +50,7 @@ GIGI LOU — luxe decor for a life well lived ✦
 
 - **Name field (searchable):** `Gigi Lou | Luxury Home Decor`
 - **Category:** Home Decor
-- **Highlights:** cream or champagne circles with thin gold serif text —
+- **Highlights:** oxblood `#3B0510` circles with stone `#DDD8D4` text or icons (match the logo) —
   *New In · Living · Dining · Bedroom · Styled Homes · Reviews · Order*
 - **Symbols that keep it luxe:** ✦ · ↓ ✉︎ — avoid bright emoji
 
