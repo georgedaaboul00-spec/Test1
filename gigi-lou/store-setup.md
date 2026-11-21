@@ -73,3 +73,21 @@ Photos: `assets/products/arch-tissue-box/`
 | Ananas Pineapple Sculpture | White, Gold, Noir | new, decor, living, dining, gift |
 
 Each has: original photo(s) + oxblood arch brand card, brand-voice description, SEO, stock 50 (sell when out of stock).
+
+### Batch 3 — 11 products (DRAFT, waiting for supplier cost)
+| Product | Variants |
+|---|---|
+| Panthère Geometric Sculpture | Noir, White |
+| Rêverie Cloud Sitter | Crystal Ball, Reading |
+| Madame Tray Bust | — |
+| Licorne Glacée Sculpture | Pink, Blue scoop |
+| Minou Shelf Cat Hook | Noir, White |
+| Silence Face Sculpture | Noir, Gold, White |
+| Glacé Balloon Dog Sculpture | Orange |
+| David Gilded Gaze Bust | Noir, White |
+| Penseur Thinker Sculpture | Gold, Noir, White |
+| Lecteur Reading Sculpture | White, Noir |
+| Mosaïque Sculpture | Gold, White, Terracotta |
+
+Skipped: pineapple + birds (duplicates of Ananas / Oiseau), gold wall swallows (50px photo — need bigger).
+Note: drafts from batch 2 were switched to ACTIVE by something outside this session twice; reset to DRAFT. 4 "Example product" items ($100, created 01:04 with the Clarity theme) are ACTIVE.
