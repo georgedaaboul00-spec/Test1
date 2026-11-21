@@ -169,3 +169,35 @@ Admin says every variant is available (stock 50, continue selling, location fulf
 - Added: "⭐ Customer favourite" badge for products tagged `favourite` (David, Reine, Lapin); "🔥 Only N left" when real tracked stock is 1–5; "⏳ Order within Xh Ym for delivery by <day>" countdown to 3pm Beirut cut-off (Mon–Sat, hidden after cut-off and Sundays).
 - Update: removed 'Beautifully wrapped, ready to gift' — rotating badge removed and the closing line deleted from all 28 product descriptions.
 - Update: removed 'Easy 7-day returns' badge. Rotating badges now: Handpicked by Gigi Lou · Cash on delivery · $3 delivery all over Lebanon.
+
+## Real pricing & stock (from supplier orders) — price = cost × 3.5 rounded up to whole $, stop selling at 0
+| Product | Variant: stock | Cost | Price |
+|---|---|---|---|
+| Arco | Ivory 20, Noir 20 | 6.34 | 23 |
+| Nuage | 20 | 6.90 | 25 |
+| Arcade | 20 | 3.80 | 14 |
+| Ourson | 12 | 4.50 | 16 |
+| Bruno | Gold 2, Silver 2 | 13.80 | 49 |
+| Lapin | Gold 4, Silver 4 | 3.80 | 14 |
+| Reine | 5 (17×9.5×26cm) | 7.20 | 26 |
+| Pomme d'Or | Gold 10, Silver 10 | 3.90 | 14 |
+| Halo Vase (was "Set of 3") | S 20 / M 20 / L 20 | 2.20/4.30/5.30 | 8/16/19 |
+| Oiseau | Noir 8, Gold 7, Blue 5 | 3.60 | 13 |
+| Café Suspendu | Mocha 10, Cream 10 | 4.50 | 16 |
+| Étreinte | Noir 8, Ivory 7, Sand 5 | 6.20 | 22 |
+| Ananas | Noir S/M/L 7/7/7, White 7/7*/7, Gold 6/6/6 | 1.90/2.60/3.50 | 7/10/13 |
+| Mosaïque | Gold 5, White 10, Terracotta(red) 5 | 3.30 | 12 |
+| Penseur | Gold 6, Noir 7, White 7 | 1.40 | 5 |
+| Lecteur | Noir(grey) 10, White 10 | 5.40 | 19 |
+| Glacé | 20 | 4.00 | 14 |
+| David | Noir 10, White 10 | 2.90 | 11 |
+| Madame | 10 | 12.00 | 42 |
+| Licorne | Pink 20 (Blue removed) | 5.00 | 18 |
+| Minou | White 20 (Noir removed) | 1.00 | 4 |
+| Silence | Noir 5, Gold 5*, White 10 | 3.80 | 14 |
+| Panthère | Noir 10, White 10 | 8.60 | 31 |
+| Rêverie | Crystal Ball/Reading × Small 10 ($18) / Large 10 ($26) | 5.00/7.20 | 18/26 |
+| NEW Bulle Balloon Dog (DRAFT, no photo) | Small Silver/Gold/Rainbow/Light Blue 5 each; Large Silver/Gold/Dark Blue* 5; Long Silver 5 | 2.00/4.30 | 7/16 |
+| NEW Envol Gold Wall Swallows (DRAFT, no photo) | A 7, B 7, C 6 | 3.80 | 14 |
+\* quantity cut off in screenshot — assumed. Not in orders (unchanged $50/50): Perle, Ruban, Majesté, Ascension.
+Sizes stored in product metafield custom.dimensions and shown on product page ("Size: …").
