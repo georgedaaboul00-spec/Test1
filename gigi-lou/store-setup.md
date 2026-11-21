@@ -32,7 +32,7 @@ A product can have several tags, e.g. `new, living, gift`.
 ### Theme (Atelier)
 - Brand colours applied: ivory background, oxblood text & buttons, wine accent, sand sections
 - Fonts: Montserrat Bold headings, Montserrat body
-- Saved, waiting to be published
+- Logo in header + footer, favicon (browser tab icon), social sharing image for shared links
 
 ### Menus
 - **Main:** Home · New In · Shop ▾ (Living Room, Dining & Entertaining, Bedroom & Bath, Decor & Accents, Candles & Scents, Shop All) · Gifts · Our Story · Contact
@@ -42,9 +42,10 @@ A product can have several tags, e.g. `new, living, gift`.
 1. ✅ Currency is USD. Time zone: Beirut (GMT+2).
 2. **Cash on delivery only** — Settings → Payments: add manual method "Cash on Delivery (COD)", deactivate all other providers.
 3. **Policies** — Settings → Policies (refund, privacy, terms, shipping).
-4. **Logo + homepage images** — upload logo and campaign images, then design the homepage.
-5. **Add products** with photos, prices and tags.
-6. **Remove store password** when ready: Online Store → Preferences.
+4. **Logo in admin-only places** — Settings → Brand (logo, square logo, cover), Checkout → Customize (logo), Notifications → Customize email templates (logo). Files are already in Content → Files.
+5. **Homepage redesign** with campaign images.
+6. **Add products** with photos, prices and tags.
+7. **Remove store password** when ready: Online Store → Preferences.
 
 ## Products
 | Product | Colours | Cost | Price (3.5×) | Margin | Status |
