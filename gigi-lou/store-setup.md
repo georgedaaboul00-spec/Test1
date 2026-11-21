@@ -150,3 +150,7 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 ### Animated spotlight (custom section `gl-spotlight`, replaced the featured Reine section)
 Oxblood stage "In the spotlight / Statement pieces": product floats in a gold-edged arch, gold halo glows and spins behind, gold text ring spins around (GIGI LOU ✦ STATEMENT PIECES ✦ CROWNED IN GOLD ✦ HOME, ELEVATED ✦). Auto-rotates every 5s with crossfade + zoom: Reine → David → Silence → Lapin → Majesté (name, tagline, price, Shop now, dots). Pauses on hover. Editable in Customize (products, taglines, speed, colours).
 - Update: collections spotlight names smaller (1.4–2.25rem) and auto-cycle every 3.5s (highlight + matching image), pauses on hover/tap. Hero badge kept below the sticky header.
+- Update: New In is now a single-row carousel (16 products, ~2.3 cards visible on phone) that auto-advances every 3s and loops; Gifts carousel too. Pauses on touch/hover.
+
+### ⚠️ SOLD OUT on live site (open issue)
+Admin says every variant is available (stock 50, continue selling, location fulfils online). Market "GIGILOU Lebanon" (regions Lebanon + United States) has **no web presence** and 0 catalogs → likely cause of storefront showing SOLD OUT / Unavailable. Fix: Settings → Markets → GIGILOU Lebanon → make sure Online Store / domain homegigilou.com is assigned (or set it as primary market). Not changed yet — waiting for owner OK.
