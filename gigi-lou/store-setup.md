@@ -53,3 +53,23 @@ Photos: `assets/products/arch-tissue-box/`
 - Every section rises into view on scroll; banner images settle from a gentle zoom
 - Buttons press in on tap; product and collection images drift closer on hover
 - All motion is off for visitors with "reduce motion" turned on
+
+### Batch 2 — 14 products (DRAFT, waiting for supplier cost → price = 3.5× cost)
+| Product | Variants | Tags |
+|---|---|---|
+| Perle Floating Wine Holder | — | new, dining, decor, gift |
+| Ruban Floating Wine Holder | — | new, dining, decor, gift |
+| Arcade Five-Taper Candelabra | — | new, living, scents, decor, gift |
+| Nuage Tissue Box | — | new, living, bedroom, decor |
+| Reine Gilded Bust | — | new, living, decor, gift |
+| Lapin Valet Tray | Gold, Silver | new, bedroom, decor, gift |
+| Bruno Bulldog Tissue Holder | Gold, Silver | new, living, decor, gift |
+| Ourson Tissue Box | — | new, living, bedroom, decor, gift |
+| Pomme d'Or Apple Sculpture | Gold, Silver | new, decor, living, gift |
+| Halo Vase Set of 3 | — | new, living, decor, gift |
+| Étreinte Sculpture | Sand, Noir, Ivory | new, decor, bedroom, living, gift |
+| Café Suspendu Sculpture | Mocha, Cream | new, dining, decor, gift |
+| Oiseau Geometric Bird | Silver, Gold accent | new, decor, living, gift |
+| Ananas Pineapple Sculpture | White, Gold, Noir | new, decor, living, dining, gift |
+
+Each has: original photo(s) + oxblood arch brand card, brand-voice description, SEO, stock 50 (sell when out of stock).
