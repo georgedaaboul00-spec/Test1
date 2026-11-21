@@ -42,7 +42,7 @@ Shop menu, Customer care menu, newsletter "Join the Gigi Lou list", logo. Placeh
 ## Products
 | Product | Colours | Cost | Price (3.5×) | Margin | Status |
 |---------|---------|------|--------------|--------|--------|
-| Arco Sculptural Tissue Box | Ivory, Noir | $6.34 | $22.19 | $15.85 (71%) | Live |
+| Arco Sculptural Tissue Box | Ivory, Noir | $6.34 | $50.00 | $43.66 (87%) | Live |
 
 Supplier: Jinjiang Minglingtu Trading Co., Ltd. (Alibaba), $4.39–6.34, min. order 2. Cost excludes shipping/customs.
 Photos: `assets/products/arch-tissue-box/`
@@ -91,3 +91,7 @@ Each has: original photo(s) + oxblood arch brand card, brand-voice description, 
 
 Skipped: pineapple + birds (duplicates of Ananas / Oiseau), gold wall swallows (50px photo — need bigger).
 Note: drafts from batch 2 were switched to ACTIVE by something outside this session twice; reset to DRAFT. 4 "Example product" items ($100, created 01:04 with the Clarity theme) are ACTIVE.
+
+### Launch pricing
+All 26 Gigi Lou products set to **$50** (every variant), ACTIVE, published to Online Store. Arco changed from $22.19 to $50.
+Homepage: New In grid shows 16 products; new "The art of gifting" carousel (Gifts collection, 12 products) after the Ivory/Noir slider.
