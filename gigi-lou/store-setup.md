@@ -136,3 +136,4 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 - Glossy oxblood pill buttons with a light sheen sweeping across on hover; ivory glass "Shop now" button
 - Glass pill badges, rounded images (16px), inputs, drawers and menus
 - All motion off for reduced-motion visitors
+- Update: header is now a floating rounded glass pill (logo bar) with collections as glass chips below (slow scroll, oxblood on hover/active), Baytikk-style.
