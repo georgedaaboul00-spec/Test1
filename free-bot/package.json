@@ -7,10 +7,12 @@
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:paste": "esbuild src/index.ts --bundle --format=esm --target=es2022 --outfile=worker.js --legal-comments=none \"--banner:js=// Baytikk FREE WhatsApp price bot. Paste this whole file into Cloudflare (Workers > your worker > Edit code). Generated from src/index.ts with: npm run build:paste\""
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20261120.1",
+    "esbuild": "^0.28.2",
     "typescript": "^7.0.2",
     "wrangler": "^4.166.0"
   }

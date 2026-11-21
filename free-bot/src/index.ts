@@ -11,7 +11,7 @@ export interface Env {
   WHATSAPP_PHONE_NUMBER_ID: string;
   WHATSAPP_VERIFY_TOKEN: string;
   WHATSAPP_APP_SECRET?: string;
-  SHOPIFY_SHOP_DOMAIN: string;
+  SHOPIFY_SHOP_DOMAIN?: string;
   SHOPIFY_ADMIN_TOKEN: string;
   STOREFRONT_URL?: string;
   /** Delivery fee in USD for orders below FREE_DELIVERY_FROM. */
@@ -48,7 +48,7 @@ async function getCatalog(env: Env): Promise<Product[]> {
   const products: Product[] = [];
   let after: string | null = null;
   do {
-    const res = await fetch(`https://${env.SHOPIFY_SHOP_DOMAIN}/admin/api/${SHOPIFY_API_VERSION}/graphql.json`, {
+    const res = await fetch(`https://${env.SHOPIFY_SHOP_DOMAIN || "baytikklb.myshopify.com"}/admin/api/${SHOPIFY_API_VERSION}/graphql.json`, {
       method: "POST",
       headers: { "Content-Type": "application/json", "X-Shopify-Access-Token": env.SHOPIFY_ADMIN_TOKEN },
       body: JSON.stringify({
@@ -280,7 +280,12 @@ export async function handleMessage(env: Env, m: Message): Promise<string | null
 
   // From a Click-to-WhatsApp ad: use the ad itself to know which product they saw.
   if (ref) {
-    const map = env.AD_PRODUCT_MAP ? (JSON.parse(env.AD_PRODUCT_MAP) as Record<string, string>) : {};
+    let map: Record<string, string> = {};
+    try {
+      map = env.AD_PRODUCT_MAP ? JSON.parse(env.AD_PRODUCT_MAP) : {};
+    } catch {
+      console.error("AD_PRODUCT_MAP is not valid JSON; ignoring it");
+    }
     const mapped = ref.source_id ? products.find((p) => p.handle === map[ref.source_id!]) : undefined;
     if (mapped) matches = [mapped];
     else matches = findProducts(`${ref.source_url ?? ""} ${ref.headline ?? ""} ${ref.body ?? ""}`, products);

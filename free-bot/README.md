@@ -52,6 +52,21 @@ Shopify admin → **Settings → Apps → Develop apps** → create an app → A
 4. Note the **Phone number ID** and the **App secret** (App settings → Basic).
 
 ### 3. Deploy to Cloudflare (free)
+
+**Option A: no terminal, all in the browser (easiest)**
+1. Sign up at [dash.cloudflare.com](https://dash.cloudflare.com) (free, no card).
+2. **Workers & Pages → Create → Create Worker** (start from "Hello World") → name it
+   `baytikk-price-bot` → **Deploy**.
+3. Click **Edit code**, delete everything, paste the whole contents of
+   [`free-bot/worker.js`](worker.js) → **Deploy**.
+4. Go to the worker's **Settings → Variables and Secrets** and add these 5 as type **Secret**:
+   `SHOPIFY_ADMIN_TOKEN`, `WHATSAPP_ACCESS_TOKEN`, `WHATSAPP_PHONE_NUMBER_ID`,
+   `WHATSAPP_VERIFY_TOKEN` (make up any password), `WHATSAPP_APP_SECRET`.
+   Optional plain-text variables: `DELIVERY_FEE` (default 3), `FREE_DELIVERY_FROM` (default 40),
+   `AD_PRODUCT_MAP`.
+5. Your bot's address is shown at the top: `https://baytikk-price-bot.<you>.workers.dev`.
+
+**Option B: from a terminal**
 ```bash
 cd free-bot
 npm install
