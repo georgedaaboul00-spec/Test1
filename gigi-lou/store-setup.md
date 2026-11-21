@@ -105,3 +105,14 @@ Edit messages in the theme editor → Header → Announcement marquee.
 Solid ivory header (no longer transparent over the hero). Collections row under the logo (desktop centred; mobile swipeable bar):
 New In · Living Room · Decor & Accents · Bedroom & Bath · Dining · Gifts · Shop All. Our Story / Contact moved to footer only.
 - Update: collections now scroll slowly in a custom "Collections marquee" section (60s loop, pauses on hover, reads the Main menu). Desktop inline menu hidden (marquee is the nav); mobile ☰ drawer still has the collections. Speed: Customize → Header → Collections marquee → Loop duration (higher = slower).
+
+### Homepage v2 — product variety
+1. Hero slideshow (autoplay 5s, 5 slides): Arco shelf · David "The gilded gaze" · Silence "Say nothing" · Rêverie "Head in the clouds" · Panthère "On the prowl"
+2. Oxblood marquee
+3. Collections spotlight — images: Living Room=Panthère, Decor=Silence, Bedroom=Rêverie, Dining=Café Suspendu, Gifts=Étreinte (New In=David)
+4. Featured product: Reine Gilded Bust
+5. New In grid (16)
+6. "Place it well" banner → Perle Floating Wine Holder
+7. Sand marquee
+8. Madame editorial "Hats off to Madame" (replaced the Arco Ivory/Noir slider)
+9. "The art of gifting" carousel
