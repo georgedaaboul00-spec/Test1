@@ -138,3 +138,8 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 - All motion off for reduced-motion visitors
 - Update: header is now a floating rounded glass pill (logo bar) with collections as glass chips below (slow scroll, oxblood on hover/active), Baytikk-style.
 - Update: mobile menu drawer refined: 1rem bold spaced uppercase links with hairline dividers, frosted glass panel with rounded right corners, rounded product images.
+
+### Cinematic scroll hero (`gigi-lou-scroll.js`, snippet `gl-hero-badge`, hero.liquid renders badge on first section only)
+- Scrolling down: banner image tilts back in 3D, zooms in and darkens like a camera push; headline/button float up and fade
+- Rotating badge (Gi G Lou logo + "GIGI LOU ✦ HOME, ELEVATED ✦ ORDINARY WAS NEVER THE VISION ✦") bottom-right of the banner, turns as you scroll (reverses on scroll up), links to all products
+- Header untouched. Off for reduced-motion visitors (badge stays, static).
