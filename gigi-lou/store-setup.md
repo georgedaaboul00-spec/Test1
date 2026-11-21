@@ -46,3 +46,10 @@ Shop menu, Customer care menu, newsletter "Join the Gigi Lou list", logo. Placeh
 
 Supplier: Jinjiang Minglingtu Trading Co., Ltd. (Alibaba), $4.39–6.34, min. order 2. Cost excludes shipping/customs.
 Photos: `assets/products/arch-tissue-box/`
+
+### Motion (theme asset `gigi-lou-motion.css`)
+- Hero: slow 2.8s zoom-out on the photo; headline, subtitle and button rise in one by one with a soft blur
+- Two big scrolling bands: oxblood "ORDINARY WAS NEVER THE VISION ✦ HOME, ELEVATED ✦ PLACE IT WELL" under the hero; sand "SCULPTURAL · TIMELESS · IVORY · NOIR · GIGI LOU" (reverse) after "Place it well"
+- Every section rises into view on scroll; banner images settle from a gentle zoom
+- Buttons press in on tap; product and collection images drift closer on hover
+- All motion is off for visitors with "reduce motion" turned on
