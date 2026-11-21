@@ -144,3 +144,4 @@ Still need studio photos: Oiseau, Panthère, Rêverie, Madame, Minou, Penseur, L
 - Rotating badge (Gi G Lou logo + "GIGI LOU ✦ HOME, ELEVATED ✦ ORDINARY WAS NEVER THE VISION ✦") bottom-right of the banner, turns as you scroll (reverses on scroll up), links to all products
 - Header untouched. Off for reduced-motion visitors (badge stays, static).
 - Update: badge text now spins non-stop (~1 turn/20s) and speeds up/reverses with scroll. Hero made bigger (min 88% screen height) and more cinematic: continuous slow 3D sway (follows mouse on desktop), slow 26s camera drift/zoom, film vignette, warm light sweep every ~9s, stronger 3D push on scroll.
+- Update: badge now spins at a constant speed on its own (no scroll influence) and no longer moves with scroll.
