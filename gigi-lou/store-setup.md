@@ -41,10 +41,10 @@ A product can have several tags, e.g. `new, living, gift`.
 ## ⬜ To do (in Shopify admin)
 1. **Store currency → USD** — Settings → General → Store defaults → Currency (must be done in admin).
 2. **Cash on delivery only** — Settings → Payments: add manual method "Cash on Delivery (COD)", deactivate all other providers.
-4. **Policies** — Settings → Policies (refund, privacy, terms, shipping).
-5. **Logo + homepage images** — upload logo and campaign images, then design the homepage.
-6. **Add products** with photos, prices and tags.
-7. **Remove store password** when ready: Online Store → Preferences.
+3. **Policies** — Settings → Policies (refund, privacy, terms, shipping).
+4. **Logo + homepage images** — upload logo and campaign images, then design the homepage.
+5. **Add products** with photos, prices and tags.
+6. **Remove store password** when ready: Online Store → Preferences.
 
 ## Products
 | Product | Colours | Cost | Price (3.5×) | Margin | Status |
