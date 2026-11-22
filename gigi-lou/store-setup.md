@@ -213,3 +213,10 @@ Storefront debug still shows country=LB market=lb but product.available=false, i
 - Bulle: Rainbow, Light Blue, Dark Blue photos made by recolouring the supplier gold photo (hue shift), linked to variants and added to description. All 5 colours now have photos.
 
 ## Pricing rule changed: price = cost × 4, rounded up to whole $ (all 28 costed products, every variant). Majesté + Ascension still $50 (no cost).
+
+### SEO pass (Nov 22)
+- Products had been renamed (e.g. Arco → "Threshold · Tissue Box", Perle → "Showstopper · Pearl Wine Holder"). All 30 product SEO titles/descriptions rewritten to match new names + "Lebanon" keywords + $3 delivery / COD.
+- 7 collections: SEO title + description + image alt text.
+- Pages (Our Story, Shipping, Returns, FAQ, Contact): title_tag + description_tag.
+- Homepage <title> "Gigi Lou | Luxury Home Decor & Sculptures in Lebanon" + meta description from shop description: committed on live theme "Copy of Gigi Lou" (188191965399) but WAITING FOR PUBLISH — that theme wasn't created by the agent, so publish must be done by owner. Also applied to old "Gigi Lou" theme.
+- NOTE: live theme is now "Copy of Gigi Lou" (published from a MacBook dev session); "Gigi Lou" theme is unpublished.
